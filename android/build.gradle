@@ -47,5 +47,5 @@ android {
 }
 
 dependencies {
-    implementation 'com.github.nizwar:openvpn_library:b3941ef040'
+    implementation 'com.github.zikwall:openvpn_library:b0a6bb851ec60ce767ef36ba8e5854fe5c914a73'
 }
